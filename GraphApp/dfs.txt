@@ -1,0 +1,19 @@
+$root
+[1] 2
+
+$neimode
+[1] "all"
+
+$order
++ 5/5 vertices, named, from 9b81184:
+[1] V3 V1 V2 V4 V5
+
+$order.out
+NULL
+
+$father
+NULL
+
+$dist
+NULL
+

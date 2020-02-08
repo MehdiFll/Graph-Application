@@ -1,0 +1,32 @@
+   V1 V2 V3 V4 V5
+V1  0  5 10  5  5
+$vpath
+NULL
+
+$epath
+$epath[[1]]
++ 0/25 edges from 90d5e94 (vertex names):
+
+$epath[[2]]
++ 2/25 edges from 90d5e94 (vertex names):
+[1] V1->V5 V5->V2
+
+$epath[[3]]
++ 2/25 edges from 90d5e94 (vertex names):
+[1] V1->V5 V5->V3
+
+$epath[[4]]
++ 1/25 edge from 90d5e94 (vertex names):
+[1] V1->V4
+
+$epath[[5]]
++ 1/25 edge from 90d5e94 (vertex names):
+[1] V1->V5
+
+
+$predecessors
+NULL
+
+$inbound_edges
+NULL
+

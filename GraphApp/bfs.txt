@@ -1,0 +1,25 @@
+$root
+[1] 4
+
+$neimode
+[1] "all"
+
+$order
++ 5/5 vertices, named, from 9729b15:
+[1] V4 V1 V2 V3 V5
+
+$rank
+NULL
+
+$father
+NULL
+
+$pred
+NULL
+
+$succ
+NULL
+
+$dist
+NULL
+

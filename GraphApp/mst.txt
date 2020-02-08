@@ -1,0 +1,4 @@
+IGRAPH 9d62c26 DNW- 5 4 -- 
++ attr: name (v/c), weight (e/n)
++ edges from 9d62c26 (vertex names):
+[1] V2->V4 V3->V5 V4->V3 V5->V1
